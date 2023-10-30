@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <default sync-j="4" revision="main"/>
+  <default sync-j="4" revision="master"/>
 
           <remote fetch="https://github.com/Piwigo" name="Piwigo-Mobile"/>
           <project remote="Piwigo-Mobile" name="Piwigo-Mobile" path="sources/Piwigo-Mobile"/>
