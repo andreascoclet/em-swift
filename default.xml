@@ -1,0 +1,306 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <default sync-j="4"/>
+
+          <remote fetch="https://github.com/Piwigo" name="Piwigo-Mobile"/>
+          <project remote="Piwigo-Mobile" name="" path="sources/Piwigo-Mobile"/>
+      
+          <remote fetch="https://github.com/kartik-venugopal" name="aural-player"/>
+          <project remote="aural-player" name="" path="sources/aural-player"/>
+      
+          <remote fetch="https://github.com/docusign" name="native-ios-sdk"/>
+          <project remote="native-ios-sdk" name="" path="sources/native-ios-sdk"/>
+      
+          <remote fetch="https://github.com/wordpress-mobile" name="WordPress-iOS"/>
+          <project remote="WordPress-iOS" name="" path="sources/WordPress-iOS"/>
+      
+          <remote fetch="https://github.com/sendbird" name="sendbird-uikit-ios"/>
+          <project remote="sendbird-uikit-ios" name="" path="sources/sendbird-uikit-ios"/>
+      
+          <remote fetch="https://github.com/trevphil" name="TechniqueAnalysis"/>
+          <project remote="TechniqueAnalysis" name="" path="sources/TechniqueAnalysis"/>
+      
+          <remote fetch="https://github.com/netyouli" name="WHC_ConfuseSoftware"/>
+          <project remote="WHC_ConfuseSoftware" name="" path="sources/WHC_ConfuseSoftware"/>
+      
+          <remote fetch="https://github.com/Adventech" name="sabbath-school-ios"/>
+          <project remote="sabbath-school-ios" name="" path="sources/sabbath-school-ios"/>
+      
+          <remote fetch="https://github.com/scribe-org" name="Scribe-iOS"/>
+          <project remote="Scribe-iOS" name="" path="sources/Scribe-iOS"/>
+      
+          <remote fetch="https://github.com/CodeEditApp" name="CodeEditLanguages"/>
+          <project remote="CodeEditLanguages" name="" path="sources/CodeEditLanguages"/>
+      
+          <remote fetch="https://github.com/stevencurtis" name="SwiftCoding"/>
+          <project remote="SwiftCoding" name="" path="sources/SwiftCoding"/>
+      
+          <remote fetch="https://github.com/ProtonMail" name="ios-mail"/>
+          <project remote="ios-mail" name="" path="sources/ios-mail"/>
+      
+          <remote fetch="https://github.com/CypherPoet" name="100-days-of-swiftui-and-combine"/>
+          <project remote="100-days-of-swiftui-and-combine" name="" path="sources/100-days-of-swiftui-and-combine"/>
+      
+          <remote fetch="https://github.com/openedx" name="edx-app-ios"/>
+          <project remote="edx-app-ios" name="" path="sources/edx-app-ios"/>
+      
+          <remote fetch="https://github.com/alexdrone" name="Render"/>
+          <project remote="Render" name="" path="sources/Render"/>
+      
+          <remote fetch="https://github.com/coderZsq" name="coderZsq.practice.native"/>
+          <project remote="coderZsq.practice.native" name="" path="sources/coderZsq.practice.native"/>
+      
+          <remote fetch="https://github.com/SAP" name="gigya-swift-sdk"/>
+          <project remote="gigya-swift-sdk" name="" path="sources/gigya-swift-sdk"/>
+      
+          <remote fetch="https://github.com/GottaYotta" name="PixelSDK"/>
+          <project remote="PixelSDK" name="" path="sources/PixelSDK"/>
+      
+          <remote fetch="https://github.com/cash0211" name="WWDC-Sample-Code-2014...2019"/>
+          <project remote="WWDC-Sample-Code-2014...2019" name="" path="sources/WWDC-Sample-Code-2014...2019"/>
+      
+          <remote fetch="https://github.com/NachoSoto" name="AsyncImageView"/>
+          <project remote="AsyncImageView" name="" path="sources/AsyncImageView"/>
+      
+          <remote fetch="https://github.com/mapbox" name="mapbox-navigation-ios"/>
+          <project remote="mapbox-navigation-ios" name="" path="sources/mapbox-navigation-ios"/>
+      
+          <remote fetch="https://github.com/bow-swift" name="bow"/>
+          <project remote="bow" name="" path="sources/bow"/>
+      
+          <remote fetch="https://github.com/Whisky-App" name="Whisky"/>
+          <project remote="Whisky" name="" path="sources/Whisky"/>
+      
+          <remote fetch="https://github.com/peterfriese" name="MakeItSo"/>
+          <project remote="MakeItSo" name="" path="sources/MakeItSo"/>
+      
+          <remote fetch="https://github.com/SuperMarcus" name="NineAnimator"/>
+          <project remote="NineAnimator" name="" path="sources/NineAnimator"/>
+      
+          <remote fetch="https://github.com/aheze" name="OpenFind"/>
+          <project remote="OpenFind" name="" path="sources/OpenFind"/>
+      
+          <remote fetch="https://github.com/quran" name="quran-ios"/>
+          <project remote="quran-ios" name="" path="sources/quran-ios"/>
+      
+          <remote fetch="https://github.com/cliqz-oss" name="browser-ios"/>
+          <project remote="browser-ios" name="" path="sources/browser-ios"/>
+      
+          <remote fetch="https://github.com/nagam11" name="ARKit-Projects"/>
+          <project remote="ARKit-Projects" name="" path="sources/ARKit-Projects"/>
+      
+          <remote fetch="https://github.com/pedrommcarrasco" name="Brooklyn"/>
+          <project remote="Brooklyn" name="" path="sources/Brooklyn"/>
+      
+          <remote fetch="https://github.com/LoopKit" name="Loop"/>
+          <project remote="Loop" name="" path="sources/Loop"/>
+      
+          <remote fetch="https://github.com/mozilla-mobile" name="firefox-ios"/>
+          <project remote="firefox-ios" name="" path="sources/firefox-ios"/>
+      
+          <remote fetch="https://github.com/Lax" name="Learn-iOS-Swift-by-Examples"/>
+          <project remote="Learn-iOS-Swift-by-Examples" name="" path="sources/Learn-iOS-Swift-by-Examples"/>
+      
+          <remote fetch="https://github.com/Yummypets" name="YPImagePicker"/>
+          <project remote="YPImagePicker" name="" path="sources/YPImagePicker"/>
+      
+          <remote fetch="https://github.com/ilobos" name="DeviceSupport"/>
+          <project remote="DeviceSupport" name="" path="sources/DeviceSupport"/>
+      
+          <remote fetch="https://github.com/planetary-social" name="planetary-ios"/>
+          <project remote="planetary-ios" name="" path="sources/planetary-ios"/>
+      
+          <remote fetch="https://github.com/genadyo" name="WWDC"/>
+          <project remote="WWDC" name="" path="sources/WWDC"/>
+      
+          <remote fetch="https://github.com/Fonta1n3" name="FullyNoded"/>
+          <project remote="FullyNoded" name="" path="sources/FullyNoded"/>
+      
+          <remote fetch="https://github.com/SoftwareEngineeringDaily" name="se-daily-iOS"/>
+          <project remote="se-daily-iOS" name="" path="sources/se-daily-iOS"/>
+      
+          <remote fetch="https://github.com/AgoraIO-Usecase" name="Online-KTV"/>
+          <project remote="Online-KTV" name="" path="sources/Online-KTV"/>
+      
+          <remote fetch="https://github.com/longsirhero" name="iOS-Extended-Knowledge"/>
+          <project remote="iOS-Extended-Knowledge" name="" path="sources/iOS-Extended-Knowledge"/>
+      
+          <remote fetch="https://github.com/FuzzyIdeas" name="Clop"/>
+          <project remote="Clop" name="" path="sources/Clop"/>
+      
+          <remote fetch="https://github.com/SwiftPackageIndex" name="SwiftPackageIndex-Server"/>
+          <project remote="SwiftPackageIndex-Server" name="" path="sources/SwiftPackageIndex-Server"/>
+      
+          <remote fetch="https://github.com/zendesk" name="ios_sdk_demo_apps"/>
+          <project remote="ios_sdk_demo_apps" name="" path="sources/ios_sdk_demo_apps"/>
+      
+          <remote fetch="https://github.com/novoda" name="ios-demos"/>
+          <project remote="ios-demos" name="" path="sources/ios-demos"/>
+      
+          <remote fetch="https://github.com/kieranb662" name="SwiftUI-Color-Kit"/>
+          <project remote="SwiftUI-Color-Kit" name="" path="sources/SwiftUI-Color-Kit"/>
+      
+          <remote fetch="https://github.com/Code-T" name="salon-resources"/>
+          <project remote="salon-resources" name="" path="sources/salon-resources"/>
+      
+          <remote fetch="https://github.com/chenhuaizhe" name="src"/>
+          <project remote="src" name="" path="sources/src"/>
+      
+          <remote fetch="https://github.com/ello" name="ello-ios"/>
+          <project remote="ello-ios" name="" path="sources/ello-ios"/>
+      
+          <remote fetch="https://github.com/jrasmusson" name="swiftui"/>
+          <project remote="swiftui" name="" path="sources/swiftui"/>
+      
+          <remote fetch="https://github.com/USDepartmentofLabor" name="Child-Labor"/>
+          <project remote="Child-Labor" name="" path="sources/Child-Labor"/>
+      
+          <remote fetch="https://github.com/qiscus" name="QiscusCore-iOS"/>
+          <project remote="QiscusCore-iOS" name="" path="sources/QiscusCore-iOS"/>
+      
+          <remote fetch="https://github.com/nicklockwood" name="SwiftFormat"/>
+          <project remote="SwiftFormat" name="" path="sources/SwiftFormat"/>
+      
+          <remote fetch="https://github.com/mrdepth" name="Neocom"/>
+          <project remote="Neocom" name="" path="sources/Neocom"/>
+      
+          <remote fetch="https://github.com/Xinguang" name="WechatKit"/>
+          <project remote="WechatKit" name="" path="sources/WechatKit"/>
+      
+          <remote fetch="https://github.com/KlubJagiellonski" name="pola-ios"/>
+          <project remote="pola-ios" name="" path="sources/pola-ios"/>
+      
+          <remote fetch="https://github.com/overtake" name="TelegramSwift"/>
+          <project remote="TelegramSwift" name="" path="sources/TelegramSwift"/>
+      
+          <remote fetch="https://github.com/e-sites" name="Natrium"/>
+          <project remote="Natrium" name="" path="sources/Natrium"/>
+      
+          <remote fetch="https://github.com/webex" name="spark-ios-sdk"/>
+          <project remote="spark-ios-sdk" name="" path="sources/spark-ios-sdk"/>
+      
+          <remote fetch="https://github.com/mapbox" name="mapbox-maps-ios"/>
+          <project remote="mapbox-maps-ios" name="" path="sources/mapbox-maps-ios"/>
+      
+          <remote fetch="https://github.com/AIwithSwift" name="PracticalAIwithSwift1stEd-Code"/>
+          <project remote="PracticalAIwithSwift1stEd-Code" name="" path="sources/PracticalAIwithSwift1stEd-Code"/>
+      
+          <remote fetch="https://github.com/amratab" name="ThreeLevelAccordian"/>
+          <project remote="ThreeLevelAccordian" name="" path="sources/ThreeLevelAccordian"/>
+      
+          <remote fetch="https://github.com/eleev" name="compositional-layouts-kit"/>
+          <project remote="compositional-layouts-kit" name="" path="sources/compositional-layouts-kit"/>
+      
+          <remote fetch="https://github.com/Lausbert" name="Exermote"/>
+          <project remote="Exermote" name="" path="sources/Exermote"/>
+      
+          <remote fetch="https://github.com/CocoaDebug" name="CocoaDebug"/>
+          <project remote="CocoaDebug" name="" path="sources/CocoaDebug"/>
+      
+          <remote fetch="https://github.com/recherst" name="kavsoft-swiftui-animations"/>
+          <project remote="kavsoft-swiftui-animations" name="" path="sources/kavsoft-swiftui-animations"/>
+      
+          <remote fetch="https://github.com/instructure" name="canvas-ios"/>
+          <project remote="canvas-ios" name="" path="sources/canvas-ios"/>
+      
+          <remote fetch="https://github.com/crashoverride777" name="swifty-ads"/>
+          <project remote="swifty-ads" name="" path="sources/swifty-ads"/>
+      
+          <remote fetch="https://github.com/IvanAkulov" name="iOS-Demos"/>
+          <project remote="iOS-Demos" name="" path="sources/iOS-Demos"/>
+      
+          <remote fetch="https://github.com/CypherPoet" name="100-days-of-swift"/>
+          <project remote="100-days-of-swift" name="" path="sources/100-days-of-swift"/>
+      
+          <remote fetch="https://github.com/XITRIX" name="iTorrent"/>
+          <project remote="iTorrent" name="" path="sources/iTorrent"/>
+      
+          <remote fetch="https://github.com/Planetable" name="Planet"/>
+          <project remote="Planet" name="" path="sources/Planet"/>
+      
+          <remote fetch="https://github.com/wenghengcong" name="BeeFun-Pro"/>
+          <project remote="BeeFun-Pro" name="" path="sources/BeeFun-Pro"/>
+      
+          <remote fetch="https://github.com/haawa799" name="WaniKani-iOS"/>
+          <project remote="WaniKani-iOS" name="" path="sources/WaniKani-iOS"/>
+      
+          <remote fetch="https://github.com/chrisdanford" name="Tidy"/>
+          <project remote="Tidy" name="" path="sources/Tidy"/>
+      
+          <remote fetch="https://github.com/prebid" name="prebid-mobile-ios"/>
+          <project remote="prebid-mobile-ios" name="" path="sources/prebid-mobile-ios"/>
+      
+          <remote fetch="https://github.com/itsjunetime" name="smserver"/>
+          <project remote="smserver" name="" path="sources/smserver"/>
+      
+          <remote fetch="https://github.com/tryswift" name="trySwiftAppFinal"/>
+          <project remote="trySwiftAppFinal" name="" path="sources/trySwiftAppFinal"/>
+      
+          <remote fetch="https://github.com/yattee" name="yattee"/>
+          <project remote="yattee" name="" path="sources/yattee"/>
+      
+          <remote fetch="https://github.com/blockchain" name="My-Wallet-V3-iOS"/>
+          <project remote="My-Wallet-V3-iOS" name="" path="sources/My-Wallet-V3-iOS"/>
+      
+          <remote fetch="https://github.com/BlockchainCommons" name="GordianWallet-iOS"/>
+          <project remote="GordianWallet-iOS" name="" path="sources/GordianWallet-iOS"/>
+      
+          <remote fetch="https://github.com/woocommerce" name="woocommerce-ios"/>
+          <project remote="woocommerce-ios" name="" path="sources/woocommerce-ios"/>
+      
+          <remote fetch="https://github.com/SwiftOnTap" name="Docs"/>
+          <project remote="Docs" name="" path="sources/Docs"/>
+      
+          <remote fetch="https://github.com/AgoraIO-Usecase" name="agora-ent-scenarios"/>
+          <project remote="agora-ent-scenarios" name="" path="sources/agora-ent-scenarios"/>
+      
+          <remote fetch="https://github.com/p2p-org" name="p2p-wallet-ios"/>
+          <project remote="p2p-wallet-ios" name="" path="sources/p2p-wallet-ios"/>
+      
+          <remote fetch="https://github.com/Vaida12345" name="waifuExtension"/>
+          <project remote="waifuExtension" name="" path="sources/waifuExtension"/>
+      
+          <remote fetch="https://github.com/andyRon" name="LearniOSByProject"/>
+          <project remote="LearniOSByProject" name="" path="sources/LearniOSByProject"/>
+      
+          <remote fetch="https://github.com/mperovic" name="my41"/>
+          <project remote="my41" name="" path="sources/my41"/>
+      
+          <remote fetch="https://github.com/eleev" name="uicollectionview-layouts-kit"/>
+          <project remote="uicollectionview-layouts-kit" name="" path="sources/uicollectionview-layouts-kit"/>
+      
+          <remote fetch="https://github.com/seanpm2001" name="WacOS"/>
+          <project remote="WacOS" name="" path="sources/WacOS"/>
+      
+          <remote fetch="https://github.com/HearthSim" name="HSTracker"/>
+          <project remote="HSTracker" name="" path="sources/HSTracker"/>
+      
+          <remote fetch="https://github.com/prateek147" name="DVIA-v2"/>
+          <project remote="DVIA-v2" name="" path="sources/DVIA-v2"/>
+      
+          <remote fetch="https://github.com/ChengLuffy" name="ShadowsocksFree"/>
+          <project remote="ShadowsocksFree" name="" path="sources/ShadowsocksFree"/>
+      
+          <remote fetch="https://github.com/Cantoboard" name="Cantoboard"/>
+          <project remote="Cantoboard" name="" path="sources/Cantoboard"/>
+      
+          <remote fetch="https://github.com/minvws" name="nl-covid19-coronacheck-app-ios"/>
+          <project remote="nl-covid19-coronacheck-app-ios" name="" path="sources/nl-covid19-coronacheck-app-ios"/>
+      
+          <remote fetch="https://github.com/marzent" name="XIV-on-Mac"/>
+          <project remote="XIV-on-Mac" name="" path="sources/XIV-on-Mac"/>
+      
+          <remote fetch="https://github.com/aheze" name="ProgressGif"/>
+          <project remote="ProgressGif" name="" path="sources/ProgressGif"/>
+      
+          <remote fetch="https://github.com/younatics" name="MotionBook"/>
+          <project remote="MotionBook" name="" path="sources/MotionBook"/>
+      
+          <remote fetch="https://github.com/iina" name="iina"/>
+          <project remote="iina" name="" path="sources/iina"/>
+      
+          <remote fetch="https://github.com/ProteGO-Safe" name="ios"/>
+          <project remote="ios" name="" path="sources/ios"/>
+      
+</manifest>
